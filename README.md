@@ -1,8 +1,5 @@
 # 🩺 Cuidare - App de Marketplace de Farmácias
 
-![Cuidare Banner](https://via.placeholder.com/1000x400.png?text=Banner+do+App+Cuidare)  
-*(Sugestão: substitua essa imagem por um print bonito da tela principal do app)*
-
 ---
 
 ## 📖 Sobre o Projeto
