@@ -1,0 +1,29 @@
+# Dependências
+/node_modules
+npm-debug.log
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de Configuração Secreta (API Keys)
+.env
+.env.local
+.env.*.local
+
+# Expo
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Android
+/android/build/
+/android/app/build/
+/android/app/debug.keystore
+
+# iOS
+/ios/build/
